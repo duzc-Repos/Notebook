@@ -1,1 +1,1 @@
-存储整理数学，概率统计，复杂网络，神经影像等相关笔记
+This repository is for the notebook from Calculus, Probability and Statistics, Complex Network, Neuroimage(MRI), etc.
