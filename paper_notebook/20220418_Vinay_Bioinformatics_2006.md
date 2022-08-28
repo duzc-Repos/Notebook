@@ -114,7 +114,7 @@ notation for entropy minimization
 * $\log_2(\frac{P_{actual}}{P_{null}})$: 可以用于基因对的排序
 
 * 对该方法更详尽的扩展可以参考：
-  * 
+  * A Genetic Model of the Connectome
 
 
 
